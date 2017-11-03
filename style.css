@@ -4,7 +4,7 @@
 body {
 	margin: 0;
 	padding: 0;
-	font-family: 'Verdana', 'Times', 'Calibri', 'SimSun','Microsoft Yahei';
+	font-family: 'Calibri', 'Times', 'SimSun','Microsoft Yahei';
 	font-size: 11pt;
 	background-color: #eee;
 }
@@ -213,9 +213,8 @@ a {
 	margin: 0;
 	padding: 0;
     position: absolute;
-    left: -30%;
-    width: 20%;
-    font-size: 16px;
+    left: -32%;
+    width: 21%;
     color: #333;
     text-align: right;
 	line-height:24px;
